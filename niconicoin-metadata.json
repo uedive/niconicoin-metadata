@@ -1,0 +1,12 @@
+{
+  "name": "Niconicoin",
+  "symbol": "NICC",
+  "description": "A cheerful token inspired by smiling.",
+  "image": "https://raw.githubusercontent.com/uedive/niconicoin/refs/heads/main/niconicoin.png",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility"
+    }
+  ]
+}
